@@ -1,5 +1,7 @@
+# Exercise 6 
+
 types_of_people = 10
-x = f"There are {types_of_people} types of people."
+x = f"There are {types_of_people} types of people."         # formatted string
 
 binary = "binary"
 
@@ -18,4 +20,4 @@ joke_evaluation = "Isn't that joke so funny! {}".format(hilarious)
 print(joke_evaluation)
 a = "We can concatenate"
 b = " tow or more strings."
-print(a+b)
+print(a+b)          # string concatenation
