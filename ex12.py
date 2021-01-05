@@ -12,4 +12,4 @@ print("\tSo, you're {} years old, {} tall and {} kg heavy.".format(age,height,we
 #   to know about print function: python3 -m pydoc print
 #   to know about input function: python3 -m pydoc input
 
-print('hey, you are',input("Name:?"))
+print('hey, you are',input("Name:?"))       # cool syntax!
