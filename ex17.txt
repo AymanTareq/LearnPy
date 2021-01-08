@@ -1,0 +1,2 @@
+Hello, This is a demo file for exercise seventeen. In this exercise I learned how to copy a file to another file.
+I'will copy this file content in another file called new_ex17.txt file using a python script.
