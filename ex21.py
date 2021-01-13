@@ -46,4 +46,3 @@ what2 = subtract(add(multiply(divide(height,iq),age),multiply(weight,iq)),20)
 
 print(f"Result2: {result2}, What2: {what2}")
 print("Do you correctly find what2 value using function: ",result2==what2)
-
